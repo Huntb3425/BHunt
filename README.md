@@ -10,3 +10,4 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | 4 |Superstore Analysis| The project task was to find ways to reduce the volume of return orders.|
 | 5 |Fresh Beats Analysis| The project was to report key findings and write recommendations. |
 | 6 |AirBnB Analysis | Analyze the Manhattan rentals and help client make an decision on the best rental property. |
+| 7 | SQL Zuber Analysis | Understand passenger preferences and external factors on ride sharing. |
